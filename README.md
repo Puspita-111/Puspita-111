@@ -18,6 +18,8 @@
      
      iii. Create an automated technology of my own.
      
+***Tools and Technologies***     
+     
 ```python
 def tools_and_technologies():
   skills = ['Python', 'C++', 'DSA', 'java', 'Machine Learning', 'Data Science', 'Deep learning', 'SQL']
