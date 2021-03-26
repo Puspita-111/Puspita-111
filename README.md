@@ -1,7 +1,6 @@
 ### Hi there 👋, its me Puspita✨.
 
-<!--
-**Puspita-111/Puspita-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -27,4 +26,4 @@ I strongly believe, we the people of tech industry need to always learn and inno
 ***Happy Coding!***
 
 
--->
+
