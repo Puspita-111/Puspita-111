@@ -18,12 +18,6 @@
      
      iii. Create an automated technology of my own.
      
- def Puspita():
- skills = ['Python', 'C++', 'DSA', 'Machine Learning', 'Data Science', 'Deep learning', 'SQL']
- tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'tensorflow', 'MS Excel']
- cloud_architecture = ['heroku']
- open_source_contributer = True
- return ∞
 
 Reach me out on other places:
 
