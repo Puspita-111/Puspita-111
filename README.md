@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/Puspita-111/Puspita-111.svg)](http://hits.dwyl.com/Puspita-111/Puspita-111)
 
-
+***About me:***
 - 🔭 I’m currently pursuing my Bachelors from Kalinga Institute of Technology, Bhubaneshwar in Electronics and Telecommunication.
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **Data Science** and **Data Analysis** technologies.
 - 🤝 I’m looking to collaborate on **Machine learning** and **Data Science** projects.
@@ -18,7 +18,9 @@
      
      iii. Create an automated technology of my own.
      
-***Tools and Technologies***     
+     
+     
+***Tools and Technologies:***     
      
 ```python
 def tools_and_technologies():
@@ -30,7 +32,7 @@ def tools_and_technologies():
 ```  
      
 
-Reach me out on other places:
+***Reach me out on other places:***
 
 ⦿ 👉 LinkedIn: https://www.linkedin.com/in/puspita-saha-2a60671a7/
 
