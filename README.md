@@ -27,7 +27,7 @@ Reach me out on other places:
 
 ⦿ 👉 Email: puspita.saha2014@gmail.com
 
-I strongly believe, we the people of tech industry need to always learn and innovate. We need to update ourselve with the changing technologies, because the only thing that is constant is change. 
+I strongly believe, we the people of tech industry need to always learn and innovate. We need to update ourselves with the changing technologies, because the only thing that is constant is change. 
 
 ***Happy Coding!***
 
