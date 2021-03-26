@@ -1,5 +1,5 @@
 ### Hi there 👋, its me Puspita✨.
-[![HitCount](http://hits.dwyl.com/Puspita-111/Puspita-111.svg)](http://hits.dwyl.com/Puspita-111/Puspita-111
+
 <!--
 **Puspita-111/Puspita-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
