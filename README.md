@@ -18,6 +18,15 @@
      
      iii. Create an automated technology of my own.
      
+```python
+def tools_and_technologies():
+  skills = ['Python', 'C++', 'DSA', 'java', 'Machine Learning', 'Data Science', 'Deep learning', 'SQL']
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'tensorflow', 'MS Excel', 'flask']
+  cloud_architecture = ['heroku']
+  open_source_contributer = True
+  return ∞ 
+```  
+     
 
 Reach me out on other places:
 
