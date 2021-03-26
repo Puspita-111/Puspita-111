@@ -1,8 +1,7 @@
 ### Hi there 👋, its me Puspita✨.
 
+[![HitCount](http://hits.dwyl.com/Puspita-111/Puspita-111.svg)](http://hits.dwyl.com/Puspita-111/Puspita-111)
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my Bachelors from Kalinga Institute of Technology, Bhubaneshwar in Electronics and Telecommunication.
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **Data Science** and **Data Analysis** technologies.
@@ -18,6 +17,13 @@ Here are some ideas to get you started:
      ii. Contribute to **Open Source** community.
      
      iii. Create an automated technology of my own.
+     
+ def Puspita():
+ skills = ['Python', 'C++', 'DSA', 'Machine Learning', 'Data Science', 'Deep learning', 'SQL']
+ tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'tensorflow', 'MS Excel']
+ cloud_architecture = ['heroku']
+ open_source_contributer = True
+ return ∞
 
 Reach me out on other places:
 
