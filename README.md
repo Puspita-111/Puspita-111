@@ -24,7 +24,7 @@ Reach me out on other places:
 
 I strongly believe, we the people of tech industry need to always learn and innovate. We need to update ourselve with the changing technologies, because the only thing that is constant is change. 
 
-***Happy Coding!!***
+***Happy Coding!***
 
 
 -->
